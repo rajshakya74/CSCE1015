@@ -1,8 +1,7 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
 ## EUID
+rs1789
 
-## rs1789
-
-## Professor Germain
+## Favorite Professor
 DR. Who
